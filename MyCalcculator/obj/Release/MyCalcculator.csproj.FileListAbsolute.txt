@@ -1,0 +1,17 @@
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Release\MyCalcculator.exe.config
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Release\MyCalcculator.exe
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Release\MyCalcculator.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.Form1.resources
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.exe
+C:\Users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.pdb
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Release\MyCalcculator.exe.config
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Release\MyCalcculator.exe
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Release\MyCalcculator.pdb
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.csprojResolveAssemblyReference.cache
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.Form1.resources
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.Properties.Resources.resources
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.csproj.GenerateResource.Cache
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.exe
+E:\USER\dell\dell\Documents\Visual Studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Release\MyCalcculator.pdb

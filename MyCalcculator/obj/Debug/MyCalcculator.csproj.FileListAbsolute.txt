@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Debug\MyCalcculator.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Debug\MyCalcculator.exe
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\bin\Debug\MyCalcculator.pdb
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Debug\MyCalcculator.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Debug\MyCalcculator.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Debug\MyCalcculator.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Debug\MyCalcculator.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Debug\MyCalcculator.exe
+c:\users\dell\documents\visual studio 2017\Projects\MyCalcculator\MyCalcculator\obj\Debug\MyCalcculator.pdb
